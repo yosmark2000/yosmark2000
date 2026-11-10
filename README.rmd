@@ -1,0 +1,18 @@
+### ¡Hola! Soy Jose Yosmark 👋
+
+**Desarrollador en formación | Apasionado por la tecnología y el desarrollo web**
+
+- 🔭 Actualmente estoy trabajando en mis proyectos de **Python** y **JavaScript**.
+- 🌱 Estoy aprendiendo sobre **[menciona una tecnología o tema que estés estudiando]**.
+- 👯 Busco colaborar en proyectos de código abierto.
+- 📫 Cómo contactarme: **saavedrayosmark@gmail.com**
+
+---
+
+### 🛠️ Tecnologías que uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
