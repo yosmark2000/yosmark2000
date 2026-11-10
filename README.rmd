@@ -3,7 +3,7 @@
 **Desarrollador en formación | Apasionado por la tecnología y el desarrollo web**
 
 - 🔭 Actualmente estoy trabajando en mis proyectos de **Python** y **JavaScript**.
-- 🌱 Estoy aprendiendo sobre **[menciona una tecnología o tema que estés estudiando]**.
+- 🌱 Estoy aprendiendo sobre **...**.
 - 👯 Busco colaborar en proyectos de código abierto.
 - 📫 Cómo contactarme: **saavedrayosmark@gmail.com**
 
