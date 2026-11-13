@@ -1,0 +1,38 @@
+### ¡Hola! Soy Jose Yosmark 👋
+**Desarrollador Full Stack & Entusiasta de la Infraestructura y Datos**
+
+- 🔭 Actualmente trabajando en soluciones web con **Python, JavaScript y PHP (Laravel)**.
+- 🌱 Profundizando en **Docker, Contenedores y Arquitectura Cloud (Azure)**.
+- 💼 Experiencia en automatización de procesos, análisis de datos (Power BI) y soporte técnico.
+- 📫 Cómo contactarme: **saavedrayosmark@gmail.com**
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+**Backend & Lenguajes**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Frontend & Bases de Datos**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Infraestructura, DevOps y Sistemas**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Datos & Automatización**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+
+---
+
+### 📌 Proyectos Destacados
+*Próximamente estaré subiendo proyectos con Docker y react.*
